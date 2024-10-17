@@ -6,7 +6,7 @@ Parte 1
 
 ## Construción de un cliente 'grueso' con un API REST, HTML5, Javascript y CSS3. Parte I.
 
-INtegrantes Cesar Amaya y Miguel Tellez
+## Integrantes Cesar Amaya y Miguel Tellez
 
 ### Trabajo individual o en parejas. A quienes tuvieron malos resultados en el parcial anterior se les recomienda hacerlo individualmente.
 
